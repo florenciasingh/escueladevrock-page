@@ -1,0 +1,106 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    color: #212529;
+}
+header {
+
+    nav {
+
+        a {
+            margin-left: 20px;
+            padding-bottom: 5px;
+            img {
+                width: 100px;
+            }
+        }
+        ul {
+            margin-top: 15px;
+            margin-right: 10px;
+
+            li {
+                display: inline-block;
+
+                a {
+                    padding: 10px;
+                    color:#ffff;
+                    text-transform: uppercase;
+                    text-decoration: none;
+                    font-family: 'Rubik', sans-serif;
+                }
+            }
+        }
+    }
+}
+.centrado {
+    text-align: center;
+}
+
+.space {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.card {
+    
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-bottom: 12px;
+}
+
+#btn-compra {
+    text-decoration: none; 
+    color: white;
+}
+
+#btn-compra:hover {
+    color: #ffba08;
+}
+
+.pic{
+    width: 200px;
+    height: 200px;
+}
+
+.quote {
+    color: #9844fc;
+}
+
+.inspo {
+    background-color: #e5e5e5;
+}
+
+.phrases {
+
+    .col-md-4{
+        padding: 30px;
+    }
+
+    h3 {
+        color: #3c096c;
+        padding: 20px;
+    }
+    i {
+        font-size: 100px;
+        color: #9844fc;
+    }
+}
+
+#picpodcast {
+    border: solid 5px #9844fc;
+}
+
+.aboutjony {
+    background-color: #e5e5e5;
+
+    .about-us-text{
+        padding-top: 5em;
+    }
+
+    img {
+        border: solid 5px #9844fc;
+        width: 300px; 
+        height: 300px;
+    }
+}
